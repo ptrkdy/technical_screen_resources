@@ -79,15 +79,17 @@ class CarInsurancePolicy {
 // Exercise
 // ----------------------------------------------------------------------------
 
-// 1) Initialize the object
+// 1) initialize the object
 
-// 2) Preview the object
+// 2) repair the get method
 
-// 3) Update the object
+// 3) preview the object
 
-// 4) Return the object
+// 4) update the object
 
-// 5) Write a test for the object
+// 5) return the object
+
+// 6) write a test for the object
 
 // ----------------------------------------------------------------------------
 // EOF

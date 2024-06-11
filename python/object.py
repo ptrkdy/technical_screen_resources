@@ -59,29 +59,21 @@ class CarInsurancePolicy:
                 f"Active: {self.is_active}")
 
 
-policy = CarInsurancePolicy(
-    policy_number="ABC12345",
-    holder_name="John Doe",
-    car_make="Toyota",
-    car_model="Camry",
-    car_year=2018,
-    coverage_type="comprehensive",
-    base_premium=500
-)
-
 # ----------------------------------------------------------------------------
 # Exercise
 # ----------------------------------------------------------------------------
 
 # 1) initialize the object
 
-# 2) preview the object
+# 2) repair the get method
 
-# 3) update the object
+# 3) preview the object
 
-# 4) return the object
+# 4) update the object
 
-# 5) write a test for the object
+# 5) return the object
+
+# 6) write a test for the object
 
 # ----------------------------------------------------------------------------
 # EOF
